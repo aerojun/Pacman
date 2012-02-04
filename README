@@ -1,1 +1,22 @@
-Pacman in C
+This is the README file for the proyect: "Pacman in C".
+
+Greetings stranger!,
+
+Basically the title says it all, but here is the uncut version.
+
+This game was the final proyect for our data-structure class. It is really basic, and has a simple logic.
+The proyect was developed using Visual Studio 2008 and Visual C++ Express 2010 on Windows XP and Windows 7.
+I don't know if it is going to work in your machine. (So start testing).
+------------------------------------------------------------------------------------------------------------------
+
+I'll be trying to push a version for C++0x.
+The problem is that i don't know how to remplace the headers "Windows.h" and "Conio.h".
+So i've to read to fix that.
+------------------------------------------------------------------------------------------------------------------
+
+We created this games based on the idea we found on a web forum.
+You can create a better verionof this one. I'll be glad if you do.
+
+Stay Golden!.
+
+                                                                                           -Aerojun
